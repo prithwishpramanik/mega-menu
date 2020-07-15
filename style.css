@@ -17,7 +17,7 @@ body{
 }
 
 .navbar ul{
-	width: 780px;
+	width: 900px;
 	height: 100%;
 	margin: 0 auto;
 	list-style: none;
@@ -29,7 +29,7 @@ body{
 }
 
 .navbar ul li{
-	width: 120px;
+	width: 140px;
 	float: left;
 	text-align: center;
 	padding: 15px 0;
@@ -129,6 +129,25 @@ body{
     	background-color: #76ff03;
     }
 
+     
+     input{
+     	border-radius: 3px;
+     }
+
+     .title{
+
+     	
+     	padding-top:150px;
+     	font-family: 'Galada', cursive;
+     	font-size: 50px;
+     	font-weight: bold;
+     	text-align: center;
+     	color: white;
+     	text-transform: uppercase;
+
+     }
+
+     
 
 
 
